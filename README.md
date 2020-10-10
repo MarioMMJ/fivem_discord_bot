@@ -9,4 +9,4 @@
 
 ## Licencia
 
-Este bot es gratuito, para su uso lo único que se pide es que se de credito al autor, si esto no se lleva a cabo como pone en el [archivo de licencia] (LICENSE)
+Este bot es gratuito, para su uso lo único que se pide es que se de credito al autor, si esto no se lleva a cabo como pone en el [archivo de licencia](LICENSE), se tomarán acciones legales contra la persona o la empresa.
