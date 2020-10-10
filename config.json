@@ -1,5 +1,7 @@
 {
 	"prefix": "!",
-    "token": "your-token-goes-here",
-    "server_ip": "ip-del_servidor"
+    "token": "NzY0NDMwODE2MTY4MTE2MjQ0.X4GJrQ.DCvPuuxiw3r40pbdn9fLsaIv4IM",
+    "nombre_servidor":"VenenoRP",
+    "server_ip": "92.187.94.58:30125",
+    "timeout_user_fetch": 60000
 }
